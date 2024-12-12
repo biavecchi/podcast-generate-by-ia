@@ -1,4 +1,8 @@
 <p align="center">
+<img 
+    src="./assets/avatar.webp"
+    width="300"
+/>
 </p>
 
 <p align="center">
@@ -19,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast.MP3" controls title="Podcast"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
